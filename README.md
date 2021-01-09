@@ -37,7 +37,7 @@ Status:
 
 <img src='https://github.com/Joseacasado/Joseacasado/blob/main/github-profile-wokallday.gif' alt='wolf developer working day and night' />
 
-## { eat, sleep, code, repeat } :hearts:
+## const { eat, sleep, code, repeat } = :hearts:
 </div>
 
 
