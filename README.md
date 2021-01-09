@@ -20,9 +20,9 @@
 
 <pre>
 Status:
-- 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently learning TypeScript.
-- 👯 I’m looking to collaborate on cool and interesting projects.
+- 🔭 I'm working on my portfolio and professional profiles, I will appreciate any suggestions!.
+- 🌱 I'm currently improving my knowledge of React.
+- 👯 I would like to collaborate in cool and interesting projects.
 - 💬 We can talk about code, but I also know a lot about drums.
 </pre>
 
