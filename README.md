@@ -12,6 +12,7 @@
 <img align="left" src="https://simpleicons.org/icons/html5.svg" alt="html5" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/css3.svg" alt="css3" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="visualstudiocode" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/heroku.svg" alt="heroku" height="40px" />
 
 <br />
 <br />
@@ -35,6 +36,7 @@ Status:
 
 <img src='https://github.com/Joseacasado/Joseacasado/blob/main/github-profile-wokallday.gif' alt='wolf developer working day and night' />
 
+## Happy coding! :hearts:
 </div>
 
 
