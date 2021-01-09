@@ -13,9 +13,11 @@
 <img align="left" src="https://simpleicons.org/icons/css3.svg" alt="css3" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="visualstudiocode" height="40px" />
 
-### Status:
+<br />
+<br />
 
 <pre>
+Status:
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning TypeScript.
 - 👯 I’m looking to collaborate on cool and interesting projects.
