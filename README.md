@@ -2,8 +2,6 @@
 
 ---
 
-## I'm a Developer, Drummer and Teacher
-
 My status:
 
 - 🔭 I’m currently working on my portfolio. :nerd_face:
