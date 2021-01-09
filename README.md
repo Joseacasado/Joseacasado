@@ -9,10 +9,10 @@ My status:
 - 🔭 I’m currently working on my portfolio. :nerd_face:
 - 🌱 I’m currently learning React Hooks. :sparkles:
 - 👯 I’m looking to collaborate on cool and interesting projects. :heart:
-- 💬 We can talk about code, but I also know a lot about drums. :metal:
+- 💬 We can talk about code, but I also know a lot about drums. :drum:
 
 
-:speech_balloon: [LinkedIn][LinkedIn] **|**
+:calling: [LinkedIn][LinkedIn] **|**
 :camera_flash: [Instagram][Instagram]
 
 
