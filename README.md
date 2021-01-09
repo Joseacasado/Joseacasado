@@ -1,11 +1,12 @@
-### Hi there, I'm Jose 👋
-
----
 ![Full Stack Web Developer](https://github.com/Joseacasado/Joseacasado/blob/main/Jose%20A.%20Casado.png)
 
+# Hi there, I'm Jose 👋
 
-`MONGO_DB / EXPRESS / REACT / NODE / JS / HTML / CSS` 
+## My top Skills
 
+* ⚛ React
+* 💻 JS | HTML | CSS
+* 🧰 NODE | EXPRESS | MONGO_DB
 
 My status:
 
