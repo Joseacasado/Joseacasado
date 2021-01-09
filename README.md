@@ -11,10 +11,10 @@
 <pre>
 Status:
 
-- 🔭 I’m currently working on my portfolio. 🤓
-- 🌱 I’m currently learning TypeScript. ⌨️
-- 👯 I’m looking to collaborate on cool and interesting projects. ❤️
-- 💬 We can talk about code, but I also know a lot about drums. 🥁
+- 🔭 I’m currently working on my portfolio.
+- 🌱 I’m currently learning TypeScript.
+- 👯 I’m looking to collaborate on cool and interesting projects.
+- 💬 We can talk about code, but I also know a lot about drums.
 </pre>
 
 ---
