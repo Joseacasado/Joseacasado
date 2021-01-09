@@ -4,14 +4,8 @@
 ![Full Stack Web Developer](https://github.com/Joseacasado/Joseacasado/blob/main/Jose%20A.%20Casado.png)
 
 
-`From music to code`
+`MONGO_DB / EXPRESS / REACT / NODE / JS / HTML / CSS` 
 
-===
-
-Skills: MONGO_DB / EXPRESS / REACT / NODE / JS / HTML / CSS
-
-===
-                                                                                                                             
 
 My status:
 
