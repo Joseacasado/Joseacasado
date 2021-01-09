@@ -12,8 +12,8 @@ My status:
 - 💬 We can talk about code, but I also know a lot about drums. :metal:
 
 
-:speech_balloon: [LinkedIn].[LinkedIn] **|**
-:camera_flash: [Instagram].[Instagram]
+:speech_balloon: [LinkedIn][LinkedIn] **|**
+:camera_flash: [Instagram][Instagram]
 
 
 [LinkedIn]: https://linkedin.com/in/joseantonio-casado
