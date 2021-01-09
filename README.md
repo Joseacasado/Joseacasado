@@ -1,18 +1,12 @@
-### Hi there, I'm Jose 👋
+## Hi there, I'm Jose 👋
 
 ---
 
-<!--
-**Joseacasado/Joseacasado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My status:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my portfolio.
+- 🌱 I’m currently learning React Hooks.
+- 👯 I’m looking to collaborate on cool and interesting projects.
+- 🤔 I’m looking for help to start a new career in web development. 
+- 💬 We can talk about code, but I also know a lot about music.
+- 📫 How to reach me: [LinkedIn](linkedin.com/in/joseantonio-casado/ "LinkedIn profile")
