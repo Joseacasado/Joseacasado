@@ -4,14 +4,14 @@
 
 ## Languages and Tools
 
-* <img align="left" src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" height="40px" />
-* <img align="left" src="https://simpleicons.org/icons/express.svg" alt="expressJS" height="40px" />
-* <img align="left" src="https://simpleicons.org/icons/react.svg" alt="React" height="40px" />
-* <img align="left" src="https://simpleicons.org/icons/node-dot-js.svg" alt="node-dot-js" height="40px" />
-* <img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="javascript" height="40px" />
-* <img align="left" src="https://simpleicons.org/icons/html5.svg" alt="html5" height="40px" />
-* <img align="left" src="https://simpleicons.org/icons/css3.svg" alt="css3" height="40px" />
-* <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="visualstudiocode" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/express.svg" alt="expressJS" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/react.svg" alt="React" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/node-dot-js.svg" alt="node-dot-js" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="javascript" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/html5.svg" alt="html5" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/css3.svg" alt="css3" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="visualstudiocode" height="40px" />
 
 <pre>
 Status:
