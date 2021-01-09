@@ -1,4 +1,4 @@
-![Full Stack Web Developer](https://github.com/Joseacasado/Joseacasado/blob/main/Jose%20A.%20Casado.png)
+![Full Stack Web Developer](https://github.com/Joseacasado/Joseacasado/blob/main/Joseacasado-githubprofile.png)
 
 Hi there, I'm Jose 👋, I'm from Spain 🇪🇸 and I used to be a musician (🥁) but I discovered the code and since then I'm passionate about it! After finishing the Web Development Bootcamp at Ironhack I'm focused on mastering the MERN stack and learning something new every day.
 
