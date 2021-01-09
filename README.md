@@ -4,7 +4,6 @@
 
 ## Languages and Tools
 
-<div>
 <img align="left" src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/express.svg" alt="expressJS" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/react.svg" alt="React" height="40px" />
@@ -13,11 +12,10 @@
 <img align="left" src="https://simpleicons.org/icons/html5.svg" alt="html5" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/css3.svg" alt="css3" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="visualstudiocode" height="40px" />
-</div>
+
+### Status:
 
 <pre>
-Status:
-
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning TypeScript.
 - 👯 I’m looking to collaborate on cool and interesting projects.
