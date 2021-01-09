@@ -1,28 +1,10 @@
 ### Hi there, I'm Jose 👋
 
 ---
-
-#### Full Stack Web Developer
 ![Full Stack Web Developer](https://github.com/Joseacasado/Joseacasado/blob/main/Jose%20A.%20Casado.png)
 
-<!--
-<pre>
- __      __           __          ____                            ___                                     
-/\ \  __/\ \         /\ \        /\  _`\                         /\_ \                                    
-\ \ \/\ \ \ \     __ \ \ \____   \ \ \/\ \     __   __  __     __\//\ \      ___    _____      __   _ __  
- \ \ \ \ \ \ \  /'__`\\ \ '__`\   \ \ \ \ \  /'__`\/\ \/\ \  /'__`\\ \ \    / __`\ /\ '__`\  /'__`\/\`'__\
-  \ \ \_/ \_\ \/\  __/ \ \ \L\ \   \ \ \_\ \/\  __/\ \ \_/ |/\  __/ \_\ \_ /\ \L\ \\ \ \L\ \/\  __/\ \ \/ 
-   \ `\___x___/\ \____\ \ \_,__/    \ \____/\ \____\\ \___/ \ \____\/\____\\ \____/ \ \ ,__/\ \____\\ \_\ 
-    '\/__//__/  \/____/  \/___/      \/___/  \/____/ \/__/   \/____/\/____/ \/___/   \ \ \/  \/____/ \/_/ 
-                                                                                      \ \_\               
-                                                                                       \/_/                                                                        
-</pre>
 
----
--->
-
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+`From music to code`
 
 Skills: MONGO_DB / EXPRESS / REACT / NODE / JS / HTML / CSS
                                                                                                                              
