@@ -2,7 +2,7 @@
 
 Hi there, I'm Jose 👋, I'm from Spain 🇪🇸 and I used to be a musician (🥁) but I discovered the code and since then I'm passionate about it! After finishing the Web Development Bootcamp at Ironhack I'm focused on mastering the MERN stack and learning something new every day.
 
-If you want, I'll be happy to talk, receive advice or project ideas.
+I'll be happy to talk, receive advice or project ideas. 😉
 
 Check out my repositories below! ⬇️
 
