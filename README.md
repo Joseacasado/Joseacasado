@@ -6,6 +6,8 @@ If you want, I'll be happy to talk, receive advice or project ideas.
 
 Check out my repositories below! ⬇️
 
+---
+
 ## Languages and Tools
 
 <img align="left" src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" height="40px" />
