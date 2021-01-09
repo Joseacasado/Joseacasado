@@ -6,7 +6,11 @@
 
 `From music to code`
 
+===
+
 Skills: MONGO_DB / EXPRESS / REACT / NODE / JS / HTML / CSS
+
+===
                                                                                                                              
 
 My status:
@@ -16,8 +20,11 @@ My status:
 - 👯 I’m looking to collaborate on cool and interesting projects. :heart:
 - 💬 We can talk about code, but I also know a lot about drums. :drum:
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Joseacasado)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joseantonio-casado/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/joseacasado_drummer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/joseacasado)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Joseacasado)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/joseantonio-casado/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/joseacasado_drummer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/joseacasado)  
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseacasado)](https://github.com/anuraghazra/github-readme-stats)
 
