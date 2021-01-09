@@ -17,6 +17,7 @@ Check out my repositories below! ⬇️
 <img align="left" src="https://simpleicons.org/icons/css3.svg" alt="css3" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="visualstudiocode" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/heroku.svg" alt="heroku" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/git.svg" alt="git" height="40px" />
 
 <br />
 <br />
