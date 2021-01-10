@@ -22,7 +22,6 @@ Check out my repositories below! ⬇️
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="visualstudiocode" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/heroku.svg" alt="heroku" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/git.svg" alt="git" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/npm.svg" alt="npm" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/jasmine.svg" alt="jasmine" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/postman.svg" alt="postman" height="40px" />
 
