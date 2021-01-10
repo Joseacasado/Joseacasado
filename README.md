@@ -17,9 +17,14 @@ Check out my repositories below! ⬇️
 <img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="javascript" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/html5.svg" alt="html5" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/css3.svg" alt="css3" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/sass.svg" alt="sass" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/bootstrap.svg" alt="bootstrap" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="visualstudiocode" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/heroku.svg" alt="heroku" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/git.svg" alt="git" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/npm.svg" alt="npm" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/jasmine.svg" alt="jasmine" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/postman.svg" alt="postman" height="40px" />
 
 <br />
 <br />
