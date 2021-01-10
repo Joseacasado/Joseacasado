@@ -27,7 +27,8 @@ Check out my repositories below! ⬇️
 
 <br />
 <br />
-<br />
+
+---
 
 ### Status:
 - 🔭 I'm working on my portfolio and professional profiles, I will appreciate any suggestions!.
