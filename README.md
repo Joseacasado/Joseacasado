@@ -11,19 +11,19 @@ Check out my repositories below! ⬇️
 ## Languages and Tools
 
 <img align="left" src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" height="40px" title="MongoDB" />
-<img align="left" src="https://simpleicons.org/icons/express.svg" alt="expressJS" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/react.svg" alt="React" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/node-dot-js.svg" alt="node-dot-js" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="javascript" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/html5.svg" alt="html5" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/css3.svg" alt="css3" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/sass.svg" alt="sass" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/bootstrap.svg" alt="bootstrap" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="visualstudiocode" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/heroku.svg" alt="heroku" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/git.svg" alt="git" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/jasmine.svg" alt="jasmine" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/postman.svg" alt="postman" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/express.svg" alt="expressJS" height="40px" title="ExpressJS" />
+<img align="left" src="https://simpleicons.org/icons/react.svg" alt="React" height="40px" title="ReactJS" />
+<img align="left" src="https://simpleicons.org/icons/node-dot-js.svg" alt="node-dot-js" height="40px" title="NodeJS" />
+<img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="javascript" height="40px" title="JavaScript" />
+<img align="left" src="https://simpleicons.org/icons/html5.svg" alt="html5" height="40px" title="HTML 5" />
+<img align="left" src="https://simpleicons.org/icons/css3.svg" alt="css3" height="40px" title="CSS 3" />
+<img align="left" src="https://simpleicons.org/icons/sass.svg" alt="sass" height="40px" title="Sass" />
+<img align="left" src="https://simpleicons.org/icons/bootstrap.svg" alt="bootstrap" height="40px" title="Bootstrap" />
+<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="visualstudiocode" height="40px" title="VS Code" />
+<img align="left" src="https://simpleicons.org/icons/heroku.svg" alt="heroku" height="40px" title="Heroku" />
+<img align="left" src="https://simpleicons.org/icons/git.svg" alt="git" height="40px" title="Git" />
+<img align="left" src="https://simpleicons.org/icons/jasmine.svg" alt="jasmine" height="40px" title="Jasmine" />
+<img align="left" src="https://simpleicons.org/icons/postman.svg" alt="postman" height="40px" title="Postman" />
 
 <br />
 <br />
