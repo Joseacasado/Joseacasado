@@ -46,9 +46,7 @@ Check out my repositories below! ⬇️
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseacasado)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-<img src='https://github.com/Joseacasado/Joseacasado/blob/main/github-profile-wokallday.gif' alt='wolf developer working day and night' />
--->
+
 ![Wolf developer working day and night](https://github.com/Joseacasado/Joseacasado/blob/main/github-profile-wokallday.gif)
 
 ### const { eat, sleep, code, repeat } = :hearts:
