@@ -29,13 +29,11 @@ Check out my repositories below! ⬇️
 <br />
 <br />
 
-<pre>
-Status:
+### Status:
 - 🔭 I'm working on my portfolio and professional profiles, I will appreciate any suggestions!.
 - 🌱 I'm currently improving my knowledge of React.
 - 👯 I would like to collaborate in cool and interesting projects.
 - 💬 We can talk about code, but I also know a lot about drums.
-</pre>
 
 ---
 <div align='center'>
