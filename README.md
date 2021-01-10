@@ -10,7 +10,7 @@ Check out my repositories below! ⬇️
 
 ## Languages and Tools
 
-<img align="left" src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" height="40px" title="MongoDB" />
 <img align="left" src="https://simpleicons.org/icons/express.svg" alt="expressJS" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/react.svg" alt="React" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/node-dot-js.svg" alt="node-dot-js" height="40px" />
