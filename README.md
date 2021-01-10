@@ -40,10 +40,10 @@ Status:
 ---
 <div align='center'>
   
-[<img src='https://simpleicons.org/icons/github.svg' alt='github' height='30'>](https://github.com/Joseacasado)
-[<img src='https://simpleicons.org/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/joseantonio-casado/)
-[<img src='https://simpleicons.org/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/joseacasado_drummer/)
-[<img src='https://simpleicons.org/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/joseacasado)  
+[<img src='https://simpleicons.org/icons/github.svg' alt='github' height='30'>](https://github.com/Joseacasado 'GitHub Profile')
+[<img src='https://simpleicons.org/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/joseantonio-casado/ 'LinkedIn Profile')
+[<img src='https://simpleicons.org/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/joseacasado_drummer/ 'Instagram Profile')
+[<img src='https://simpleicons.org/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/joseacasado 'Codepen Profile')  
 
 ---
 
