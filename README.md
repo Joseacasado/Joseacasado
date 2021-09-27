@@ -1,6 +1,6 @@
-![Jose A. Casado - Full Stack Web Developer](https://github.com/Joseacasado/Joseacasado/blob/main/Joseacasado-githubprofile.png)
+![Jose A. Casado - Full Stack Web Developer](./assets/Joseacasado-githubprofile.png)
 
-Hi there, I'm Jose 👋, I'm from Spain 🇪🇸 and I used to be a musician (🥁) but I discovered the code and since then I'm passionate about it! After finishing the Web Development Bootcamp at Ironhack I'm focused on mastering the MERN stack and learning something new every day.
+Hi there, I'm Jose 👋, I'm from Spain 🇪🇸 and I used to be a musician (🥁) but I discovered the code and since then I'm passionate about it!
 
 I'll be happy to talk, receive advice or project ideas. 😉
 
@@ -30,8 +30,8 @@ Check out my repositories below! ⬇️
 ---
 
 ### Status:
-- 🔭 I'm working on my portfolio and professional profiles, I will appreciate any suggestions!.
-- 🌱 I'm currently improving my knowledge of React.
+- 🔭 I'm working as FullStack Junior Developer in Madrid.
+- 🌱 I'm currently improving my knowledge of Design patterns.
 - 👯 I would like to collaborate in cool and interesting projects.
 - 💬 We can talk about code, but I also know a lot about drums.
 
@@ -47,7 +47,7 @@ Check out my repositories below! ⬇️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseacasado)](https://github.com/anuraghazra/github-readme-stats)
 
-![Wolf developer working day and night](https://github.com/Joseacasado/Joseacasado/blob/main/github-profile-wokallday.gif)
+![Wolf developer working day and night](./assets/github-profile-wokallday.gif)
 
 ### const { eat, sleep, code, repeat } = :hearts:
 
